@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salcedo_eddie@yahoo.com**
 
--👨‍💻 All of my projects are available at [eddiesalcedo.com](https://www.eddiesalcedo.com)
+- 👨‍💻 All of my projects are available at [eddiesalcedo.com](https://www.eddiesalcedo.com)
 
 
 <h3 align="left">Connect with me:</h3>
