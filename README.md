@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🔭 I’m currently working on [Base Apparel Page](https://github.com/SalixDev/Base-Apparel-Page)
+- 🔭 I’m currently working on [Philosopher Full Stack API]([https://github.com/SalixDev/Base-Apparel-Page](https://github.com/SalixDev/philosophers-api))
 
 - 🌱 I’m currently learning **next.js**
 
