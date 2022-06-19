@@ -101,7 +101,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Next.js, Javascript, HTML5, CSS3</strong> - Responsive websites for Base Apparel. Elegantly communicates B2C message and allows customers to sign up to their newsletter! </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Responsive websites for Base Apparel. Elegantly communicates B2C message and allows customers to sign up to their newsletter! </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Dog Breed Selector App</h3>
