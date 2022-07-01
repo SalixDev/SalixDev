@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react, javascript, and video editing**
 
-- 📫 How to reach me **salcedo_eddie@yahoo.com**
+- 📫 How to reach me **hello@eddiesalcedo.com**
 
-- 👨‍💻 All of my projects are available at [eddiesalcedo.com](https://www.eddiesalcedo.com)
+- 👨‍💻 My work is available at [eddiesalcedo.com](https://www.eddiesalcedo.com)
 
 <!-- Socials -->
 <h3 align="left">Connect with me:</h3>
