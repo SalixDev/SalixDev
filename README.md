@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Philosopher Full Stack API](https://github.com/SalixDev/philosophers-api)
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **wiki api**
 
 - 💬 Ask me about **react, javascript, and video editing**
 
