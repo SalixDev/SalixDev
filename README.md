@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hello@eddiesalcedo.com**
 
-- 👨‍💻 My work is available at [eddiesalcedo.com](https://www.eddiesalcedo.com)
+- 👨‍💻 You can find some of my work at [eddiesalcedo.com](https://www.eddiesalcedo.com)
 
 <!-- Socials -->
 <h3 align="left">Connect with me:</h3>
