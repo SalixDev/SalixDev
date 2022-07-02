@@ -1,7 +1,7 @@
 <img src="/images/github-banner.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate full-stack developer from Texas</h3>
 
 - 🔭 I’m currently working on [Philosopher Full Stack API](https://github.com/SalixDev/philosophers-api)
 
