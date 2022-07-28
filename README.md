@@ -49,7 +49,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Envira Recycling Landing Page</h3>
         <br />
-        <a target="_blank" href="https://envirarecycle.netlify.app/">
+        <a target="_blank" href="https://github.com/SalixDev/Envira-Company-Website">
             <img src="images/enviragif.gif" width="100%" alt="Envira Site"/>
         </a>
         <br />
@@ -106,7 +106,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Dog Breed Selector App</h3>
       <br />
-        <a target="_blank" href="https://dogselectorquiz.herokuapp.com/">
+        <a target="_blank" href="https://github.com/SalixDev/Dog-Breed-App">
           <img src="images/dog-breed-app.png" width="100%" alt="Dog App"/>
         </a>
       <br />
